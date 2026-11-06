@@ -1,5 +1,6 @@
 # StatsVarAPI
 灵感来源于我的世界服务器插件“PlaceHolderAPI”，以变量作为占位符，可以自动统计页面上某一类名/变量的数量，并按照你想要的方式进行计算，并自动替换结果且允许被其他样式影响。
+
 (Inspired by my world server plugin "PlaceHolderAPI", it uses variables as placeholders to automatically count the number of a certain type of name/variable on the page, calculate it in the way you want, and automatically replace the result while allowing it to be influenced by other styles.)
 
 版权所有 (c) 2026 LinkLune
