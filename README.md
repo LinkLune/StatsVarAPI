@@ -3,6 +3,8 @@
 
 (Inspired by my world server plugin "PlaceHolderAPI", it uses variables as placeholders to automatically count the number of a certain type of name/variable on the page, calculate it in the way you want, and automatically replace the result while allowing it to be influenced by other styles.)
 
+
+
 版权所有 (c) 2026 LinkLune
 
 [中文版 - 具有最终效力]
