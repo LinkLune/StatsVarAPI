@@ -5,7 +5,7 @@
 
 
 
-版权所有 (c) 2026 LinkLune
+版权所有 (c) 2026 MineLune
 
 [中文版 - 具有最终效力]
 
@@ -19,7 +19,7 @@
 
 [English Version - For Reference Only]
 
-Copyright (c) 2026 LinkLune
+Copyright (c) 2026 MineLune
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this script and associated documentation files (the "Script"), to use,
